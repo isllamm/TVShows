@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/TVShows/app/src/main/res/drawable/background_back_button.xml" value="0.1" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/drawable/background_fab.xml" value="0.1" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/drawable/background_fading_edge.xml" value="0.1" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/drawable/background_slider_indicator_active.xml" value="0.1" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/drawable/background_slider_indicator_inactive.xml" value="0.1" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/drawable/background_tv_show.xml" value="0.1" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/drawable/progress_bar_color.xml" value="0.1" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/layout/activity_search.xml" value="0.18" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/layout/activity_tvshow_details.xml" value="0.14181286549707603" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/layout/activity_watchlist.xml" value="0.22" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/layout/item_container_episode.xml" value="0.14181286549707603" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/layout/item_container_slider_image.xml" value="0.10092592592592593" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/layout/item_container_tv_show.xml" value="0.25" />
+        <entry key="..\:/Android/TVShows/app/src/main/res/layout/layout_episodes_bottom_sheet.xml" value="0.14181286549707603" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
